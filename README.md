@@ -20,7 +20,7 @@ Whether you're just starting with Node.js or brushing up on your backend skills,
 🚀 Real-World Examples – Includes examples of how to create and manage users, products, and more.
 🔐 Environment Variables – Securely manage sensitive data using .env files.
 
-## Theory
+## 📗Theory
 
 📘 About Node.js
 Node.js is a runtime environment that allows developers to execute JavaScript code server-side. Built on Chrome's V8 JavaScript engine, Node.js enables fast and scalable network application development. Its non-blocking, event-driven architecture is particularly well-suited for real-time applications like chat systems, gaming servers, and APIs.
